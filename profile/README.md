@@ -8,7 +8,7 @@ This organization contains all the important repositories
 required to build AOSP ROMs for
 POCO X8 Pro / REDMI Turbo 5
 
-### Device kernel repositories
+### Device & Kernel manifest
 * [**Device manifest**](https://github.com/xiaomi-klee-devs/android_manifest/tree/android/lineage-23.2) (`device_manifest`)
 * [**Kernel manifest**](https://github.com/xiaomi-klee-devs/android_manifest/tree/kernel/lineage-23.2) (`kernel_manifest`)
 
