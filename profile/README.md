@@ -1,24 +1,17 @@
-## Development for Poco X6 Pro 5G/Redmi K70E "`Duchamp`"
+## Development for POCO X8 Pro / REDMI Turbo 5 "`Klee`"
 
 <div>
-  <img width="40%" src="https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k70e-1.jpg" align="right">
+  <img width="40%" src="https://camo.githubusercontent.com/b74b6dce221139a43b37a60ba310316969e6947da63db7daf5f59066e25eb281/68747470733a2f2f692e706f7374696d672e63632f58597a4e443535542f63363466343333646333386166346331316430346461326230326437383838342e77656270" align="right">
 </div>
 
-This organization contains all the important repositories required to build AOSP ROMs for Poco X6 Pro 5G/Redmi K70E
-
-### Required device specific repositories
-* [**Device tree**](https://github.com/mt6897-devs/device_xiaomi_duchamp) (`device_xiaomi_duchamp`)
-* [**Device kernel tree (Compiled outputs from kernel source)**](https://github.com/mt6897-devs/device_xiaomi_duchamp-kernel) (`device_xiaomi_duchamp-kernel`)
-* [**Vendor tree**](https://github.com/mt6897-devs/vendor_xiaomi_duchamp) (`vendor_xiaomi_duchamp`)
-
-### Other required repositories
-* [**MediaTek sepolicy**](https://github.com/mt6897-devs/device_mediatek_sepolicy_vndr) (`device_mediatek_sepolicy_vndr`)
-* [**MediaTek hardware**](https://github.com/mt6897-devs/hardware_mediatek) (`hardware_mediatek`)
-* [**Xiaomi hardware**](https://github.com/mt6897-devs/hardware_xiaomi) (`hardware_xiaomi`)
-
-### Required patches
-* [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/a4c34aa57ed56de60f29349a1e6d20cf8160ca15) (`android_packages_apps_Aperture`)
-* [**Bluetooth**](https://github.com/mt6897-devs/packages_modules_Bluetooth/commit/92549f3b3ed77c98ca4bc7316bfd2f0662ac11f9) (`packages_modules_Bluetooth`)
+This organization contains all the important repositories
+required to build AOSP ROMs for
+POCO X8 Pro / REDMI Turbo 5
 
 ### Device kernel repositories
-* [**Kernel sources**](https://github.com/mt6897-devs/kernel_manifest) (`kernel_manifest`)
+* [**Device manifest**](https://github.com/xiaomi-klee-devs/android_manifest/tree/android/lineage-23.2) (`device_manifest`)
+* [**Kernel manifest**](https://github.com/xiaomi-klee-devs/android_manifest/tree/kernel/lineage-23.2) (`kernel_manifest`)
+
+### Report bugs
+* [**Support group**](https://t.me/CilokG05)
+
