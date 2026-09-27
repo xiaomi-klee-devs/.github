@@ -9,7 +9,7 @@ required to build AOSP ROMs for
 POCO X8 Pro / REDMI Turbo 5
 
 ### Device & Kernel manifest
-* [**Device manifest**](https://github.com/xiaomi-klee-devs/android_manifest/tree/android/lineage-23.2) (`device_manifest`)
+* [**Device manifest**](https://github.com/xiaomi-klee-devs/android_manifest/tree/android/lineage-24.0) (`device_manifest`)
 * [**Kernel manifest**](https://github.com/xiaomi-klee-devs/android_manifest/tree/kernel/lineage-23.2) (`kernel_manifest`)
 
 ### Report bugs
