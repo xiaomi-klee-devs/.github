@@ -1,7 +1,7 @@
 ## Development for POCO X8 Pro / REDMI Turbo 5 "`Klee`"
 
 <div>
-  <img width="40%" src="https://camo.githubusercontent.com/b74b6dce221139a43b37a60ba310316969e6947da63db7daf5f59066e25eb281/68747470733a2f2f692e706f7374696d672e63632f58597a4e443535542f63363466343333646333386166346331316430346461326230326437383838342e77656270" align="right">
+  <img width="40%" src="https://i02.appmifile.com/377_item_id/10/03/2026/273201bdbfa9ea2a851c8f803779cd6c.png?thumb=1&w=400&h=400&f=webp&q=85" align="right">
 </div>
 
 This organization contains all the important repositories
